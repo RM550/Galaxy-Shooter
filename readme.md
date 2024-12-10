@@ -13,6 +13,12 @@ Welcome to **AAA-Class Airplane Shooter**, an engaging web-based game where you 
 
 ---
 
+## 🚀 Live Demo
+Check out the live demo of the game here:  
+[🔗 Play AAA-Class Airplane Shooter][(https://RM550.github.io/Galaxy-Shooter/))
+
+---
+
 ## 🚀 How to Play
 1. Open the game in a web browser.
 2. Click the **Start Game** button to begin.
